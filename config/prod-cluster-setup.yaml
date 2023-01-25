@@ -6,7 +6,7 @@ starburstPlatformLicense: starburstdata
 # The enviroment setting is what you'll see on the main Web UI for the ENVIRONMENT name.
 # The sharedSecret is not a k8s Secret it is what the coordinator and worker will use
 # to confirm internal communications. More can be found in the SEP doc on this.
-environment: ian-ferguson-lab01
+environment: ian-ferguson-Lab01
 sharedSecret: u70Qhhw9PsZmEgIo7Zqg3kIj3AJZ5/Mnyy5iyjcsgnceM+SSV+APSTisjlFVH
 
 # As a starting best practice always set the requests and limits memmory and CPU to the same thing.
