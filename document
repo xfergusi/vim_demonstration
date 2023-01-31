@@ -1,0 +1,11 @@
+https://www.openvim.com/
+
+https://devhints.io/vim
+
+Important commands
+
+i - stats insert mode
+esc - exits insert mode
+:q - quits out of the file
+:w - saves the file
+:wq - saves and quits the file
